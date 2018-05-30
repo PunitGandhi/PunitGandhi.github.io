@@ -41,3 +41,23 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.twocolumn {
+    margin-right: 350px
+}
+
+.left {
+	  float: left;  
+          width: 350px; /* Change this to whatever the width of your left column is*/
+        }
+    
+
+.right {
+    margin-left: 350px          
+        }
+    
+
+        .clear
+        {
+          clear: both;
+        }
