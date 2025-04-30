@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor<br/> 
-<a href='https://math.vcu.edu'>Department of Mathematics and Applied Mathematics</a> <br/> 
-<a href='https://www.vcu.edu'>Virginia Commonwealth University</a><br/> 
+subtitle: Assistant Professor<br/> <a href='https://math.vcu.edu'>Department of Mathematics and Applied Mathematics</a> <br/> <a href='https://www.vcu.edu'>Virginia Commonwealth University</a><br/> 
 
 profile:
   align: right
@@ -14,7 +12,7 @@ profile:
      <p>4177 Harris Hall</p>
     <p>1015 Floyd Avenue Box 842014</p>
     <p>Richmond, VA 23284-2014, USA</p>
-    <p>email: <a href="mailto:gandhipr@vcu.edu">gandhipr@vcu.edu</a></p>
+    <p>email: <a href='mailto:gandhipr@vcu.edu'>gandhipr@vcu.edu</a></p>
   
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
