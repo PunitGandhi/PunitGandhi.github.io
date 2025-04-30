@@ -11,9 +11,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>Office: 4177 Harris Hall</p>
+     <p>4177 Harris Hall</p>
     <p>1015 Floyd Avenue Box 842014</p>
     <p>Richmond, VA 23284-2014, USA</p>
+    <p>email: <a href="mailto:gandhipr@vcu.edu">gandhipr@vcu.edu</a></p>
+  
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

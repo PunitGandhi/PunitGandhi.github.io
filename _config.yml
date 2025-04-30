@@ -5,7 +5,8 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Punit
 last_name: Gandhi
-email: gandhipr@vcu.edu
+contact_note: >
+Click on the above icons to email me or access my profile on oricid.org, arxiv.org or google scholar
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -25,8 +26,10 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: shadow_green # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: vision-friendly-dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+#repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitgandhi&show_icons=true&theme=shadow_green)
+#repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md vision-friendly-dark
+repo_theme_dark: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitgandhi&show_icons=true&theme=vision-friendly-dark)
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -65,53 +68,8 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
 
-#acm_id: # your dl.acm.org/profile/id
-arxiv_name: Gandhi%2C+Punit
-#blogger_url: # your blogger URL
-#bluesky_url: # your bluesky URL
-#dblp_url: # your DBLP profile url
-#discord_id: # your discord id (18-digit unique numerical identifier)
-#facebook_id: # your facebook id
-#flickr_id: # your flickr id
-#github_username: # your GitHub user name
-#gitlab_username: # your GitLab user name
-#ieee_id: # your ieeexplore.ieee.org/author/id
-#instagram_id: # your instagram id
-#kaggle_id: # your kaggle id
-#keybase_username: # your keybase user name
-#lastfm_id: # your lastfm id
-#lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-#linkedin_username: # your LinkedIn user name
-#mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-#medium_username: # your Medium username
-orcid_id: 0000-0001-8812-7724 # your ORCID ID
-#osf_id: # your OSF ID
-#pinterest_id: # your pinterest id
-#publons_id: # your ID on Publons
-#quora_username: # your Quora username
-#research_gate_profile: # your profile on ResearchGate
-scholar_userid: SsU2c9oAAAAJ&hl # your Google Scholar ID
-#scopus_id: # your profile on Scopus
-#semanticscholar_id: # your Semantic Scholar ID
-#spotify_id: # your spotify id
-#stackoverflow_id: # your stackoverflow id
-#telegram_username: # your Telegram user name
-#unsplash_id: # your unsplash id
-#wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-#whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-#wikidata_id: # your wikidata id
-#wikipedia_id: # your wikipedia id (Case sensitive)
-#work_url: # work page URL
-#x_username: # your X handle
-#youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-#zotero_username: # your zotero username
 
-contact_note: >
- Click on the above icons to email me or access my profile on oricid.org, arxiv.org or google scholar
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
