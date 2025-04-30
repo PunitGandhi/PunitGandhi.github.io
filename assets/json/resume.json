@@ -27,10 +27,10 @@
       "name": "Virginia Commonwealth University",
       "position": "Assistant Professor",
       "url": "https://math.vcu.edu/directory/faculty/gandhi.html",
-      "startDate": "August 2019",
+      "startDate": "2019",
       "endDate": "",
       "summary": "Department of Mathematics and Applied Mathematics",
-      "highlights": [""]
+      "highlights": ""
     }
   ],
   "volunteer": [
@@ -47,15 +47,26 @@
   ],
   "education": [
     {
-      "institution": "University of California",
-      "location": "Berkeley",
+      "institution": "The Ohio State University",
+      "location": "Columbus, OH",
+      "url": "https://mbi.osu.edu/",
+      "area": "Mathematical Biosciences Institute",
+      "studyType": "Postdoctoral Fellow",
+      "startDate": "2016",
+      "endDate": "2019",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
       "url": "https://physics.berkeley.edu/",
-      "area": "Physics",
-      "studyType": "PhD",
+      "area": "Thesis: Localized States in Driven Dissipative Systems with Time-Periodic Modulation",
+      "studyType": "PhD in Physics",
       "startDate": "",
       "endDate": "2016",
       "score": "",
-      "courses": ["Thesis: Localized States in Driven Dissipative Systems with Time-Periodic Modulation", "Advisor: Edgar Knobloch"]
+      "courses": ["Advisor: Edgar Knobloch"]
     }
   ],
   "awards": [
