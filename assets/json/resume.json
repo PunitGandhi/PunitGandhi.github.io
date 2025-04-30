@@ -24,13 +24,12 @@
   },
   "work": [
     {
-      "institution": "Virginia Commonwealth University",
-      "department": "Mathematics and Applied Mathematics",  
+      "name": "Virginia Commonwealth University",
       "position": "Assistant Professor",
-      "url": "",
+      "url": "https://math.vcu.edu/directory/faculty/gandhi.html",
       "startDate": "August 2019",
       "endDate": "",
-      "summary": "",
+      "summary": "Department of Mathematics and Applied Mathematics",
       "highlights": [""]
     }
   ],
@@ -48,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California",
+      "location": "Berkeley",
+      "url": "https://physics.berkeley.edu/",
+      "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "",
+      "endDate": "2016",
+      "score": "",
+      "courses": ["Thesis: Localized States in Driven Dissipative Systems with Time-Periodic Modulation", "Advisor: Edgar Knobloch"]
     }
   ],
   "awards": [
