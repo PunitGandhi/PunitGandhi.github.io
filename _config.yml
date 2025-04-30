@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Punit
 last_name: Gandhi
 contact_note: >
-Click on the above icons to email me or access my profile on oricid.org, arxiv.org or google scholar
+    Click on the above icons to email me or access my profile on oricid.org, arxiv.org or google scholar.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+    Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Punit Gandhi  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -26,10 +26,10 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-#repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_light: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitgandhi&show_icons=true&theme=shadow_green)
-#repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md vision-friendly-dark
-repo_theme_dark: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitgandhi&show_icons=true&theme=vision-friendly-dark)
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+#repo_theme_light: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitgandhi&show_icons=true&theme=shadow_green)
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md vision-friendly-dark
+#repo_theme_dark: ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitgandhi&show_icons=true&theme=vision-friendly-dark)
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
