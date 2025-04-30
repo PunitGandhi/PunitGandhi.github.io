@@ -511,13 +511,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=SsU2c9oAAAAJ&hl", "_blank");
         },
       },{
-        id: 'social-arxiv_name',
-        title: 'Arxiv_name',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
