@@ -7,10 +7,9 @@ scholar_userid: SsU2c9oAAAAJ&hl # your Google Scholar ID
 orcid_id: 0000-0001-8812-7724 # your ORCID ID
 #arxiv_name: Gandhi%2C+Punit
 arXiv: # can be any name here other than the ones already defined above
-  logo: https://cornell.app.box.com/v/arxiv-logomark-small-svg # can be png, svg, jpg
+  logo: https://cdn01.boxcdn.net/_assets/img/favicons/safari-pinned-tab-jyt2W4.svg # can be png, svg, jpg
   title: arxiv.org
   url: https://arxiv.org/search/?query=Gandhi%2C+Punit&searchtype=all&source=header
-
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
@@ -55,8 +54,6 @@ arXiv: # can be any name here other than the ones already defined above
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 #custom_social: # can be any name here other than the ones already defined above
-#  logo: https://cornell.app.box.com/v/arxiv-logomark-small-svg # can be png, svg, jpg
-#  title: arXiv
-#  url: https://arxiv.org/search/?query=Gandhi%2C+Punit&searchtype=all&source=header
-
-
+#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#  title: Custom Social
+#  url: https://www.alberteinstein.com/

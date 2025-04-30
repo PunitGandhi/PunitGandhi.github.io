@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>4177 Harris Hall</p>
+    <p>4177 Harris Hall</p>
     <p>1015 Floyd Avenue Box 842014</p>
     <p>Richmond, VA 23284-2014, USA</p>
 
