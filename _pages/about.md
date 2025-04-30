@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor<br/> <a href='https://math.vcu.edu'>Department of Mathematics and Applied Mathematics</a> <br/> <a href='https://www.vcu.edu'>Virginia Commonwealth University</a><br/>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+     <p>4177 Harris Hall</p>
+    <p>1015 Floyd Avenue Box 842014</p>
+    <p>Richmond, VA 23284-2014, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
