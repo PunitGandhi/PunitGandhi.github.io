@@ -7,7 +7,7 @@ scholar_userid: SsU2c9oAAAAJ&hl # your Google Scholar ID
 orcid_id: 0000-0001-8812-7724 # your ORCID ID
 #arxiv_name: Gandhi%2C+Punit
 arXiv: # can be any name here other than the ones already defined above
-  logo: /img/arxiv-logomark-small.svg # can be png, svg, jpg
+  logo: https://punitgandhi.github.io/img/arxiv-logomark-small.svg # can be png, svg, jpg
   title: arXiv
   url: https://arxiv.org/search/?query=Gandhi%2C+Punit&searchtype=all&source=header
 # acm_id: # your dl.acm.org/profile/id
