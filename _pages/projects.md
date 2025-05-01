@@ -2,10 +2,10 @@
 layout: page
 title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: From the cellular scale of developmental biology to the landscape scale of vegetation patterns in dryland ecosystems, I am interested in modeling self-organization in complex systems that are nonlinear, dissipative and driven far from equilibrium. While much of my work focuses on the formation of spatial patterns and spatially localized structures, I am also collective behavior on networks.  I rely tools from dynamical systems and bifurcation theory to develop and analyze models aimed at providing insight into the processes underlying the pattern formation process.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 

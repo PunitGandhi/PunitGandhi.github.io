@@ -193,10 +193,10 @@ exclude:
   - vendor
   - _pages/blog.md ###################
   - _posts/
-  - _projects/?_project.md
   - assets/jupyter/blog.ipynb
-  - _repositories.md
-  - _dropdown.md
+  - _pages/repositories.md
+  - _pages/dropdown.md
+  - _pates/people.md
 keep_files:
   - CNAME
   - .nojekyll
