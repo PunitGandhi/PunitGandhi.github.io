@@ -1,25 +1,22 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"silber":
+  - firstname: ["Mary", "M."]
+    url: https://www.stat.uchicago.edu/~msilber/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"knobloch":
+  - firstname: ["Edgar", "E."]
+    url: https://physics.berkeley.edu/people/faculty/edgar-knobloch
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"golubitsky":
+  - firstname: ["Marty", "Martin", "M."]
+    url: https://www.asc.ohio-state.edu/golubitsky.4/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"dawes":
+  - firstname: ["Adriana", "A. T.", "Adriana T."]
+    url: https://people.math.osu.edu/dawes.33/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"ciocanel":
+  - firstname: ["Veronica", "M.-V.", "Maria-Veronica", "M.-Veronica"]
+    url: https://sites.math.duke.edu/~ciocanel/
 
 "schrodinger":
   - firstname: ["Erwin"]

@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Punit
 last_name: Gandhi
 contact_note: >
-  Click on the above icons to email me or access my profile on oricid.org, arxiv.org or google scholar.
+  Click on the above icons to email me or to access my profile on google scholar, oricid.org, or arxiv.org.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

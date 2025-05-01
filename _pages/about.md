@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -42,4 +42,4 @@ I am an applied mathematician at Virginia Commonwealth University.
 - VCU's conference on Biology And Medicine Through Mathematics: <a href='https://siam.vcu.edu/bamm/'>BAMM!</a>
 - VCU's SIAM Student Chapter: <a href='https://siam.vcu.edu/'>VCU SIAM Student Chapter</a>
 - Math Circle at VCU (Info for Fall 2025 coming soon!)
- 
+- American Mathematics Competition: AMC 8, 10 and 12 at VCU (Info for Fall 2025 coming soon!)

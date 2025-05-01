@@ -27,6 +27,7 @@ $yellow-color: #efcc00 !default;
 $vcu-yellow-color: #ffb300 !default;
 $vcu-gray-color: #63656a !default;
 $vcu-gray-color-light: #dedede !default;
+$vcu-green-color: #0b652e !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
@@ -40,7 +41,7 @@ $black-color: #000000 !default;
 
 //$code-bg-color-light: rgba($purple-color, 0.05);
 //$code-bg-color-dark: #2c3237 !default;
-$code-bg-color-light: rgba($vcu-yellow-color, 0.05);
+$code-bg-color-light: rgba($vcu-yellow-color, 0.1);
 $code-bg-color-dark: $vcu-gray-color;
 
 // Font awesome location
