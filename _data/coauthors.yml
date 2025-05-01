@@ -18,14 +18,11 @@
   - firstname: ["Veronica", "M.-V.", "Maria-Veronica", "M.-Veronica"]
     url: https://sites.math.duke.edu/~ciocanel/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Wang":
+  - firstname: ["Yangyang", "Y"]
+    url: https://sites.google.com/view/yangyangwang/home?authuser=1
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Beaume":
+  - firstname: ["Cedric", "C.", "C\'edric"]
+    url: https://cbeaume.com/en/index.html
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
