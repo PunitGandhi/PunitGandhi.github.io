@@ -64,16 +64,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-presenting-in-the-mathematical-biology-seminar-at-vcu",
+          title: 'Presenting in the Mathematical Biology Seminar at VCU.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-attending-mid-atlantic-regional-math-alliance-spring-meeting-at-university-of-virginia-charlotte-va",
+          title: 'Attending Mid-Atlantic Regional Math Alliance Spring Meeting at University of Virginia, Charlotte, VA....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-presenting-in-a-minisymposium-at-the-siam-conference-on-applications-of-dynamical-systems-in-denver-co-may-11-15-2025",
+          title: 'Presenting in a minisymposium at the SIAM Conference on Applications of Dynamical Systems...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
