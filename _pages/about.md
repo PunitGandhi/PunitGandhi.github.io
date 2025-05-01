@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an applied mathematician at Virginia Commonwealth University. 
+I am an applied mathematician at Virginia Commonwealth University.
 
 <b>Research Interests:</b>
 
