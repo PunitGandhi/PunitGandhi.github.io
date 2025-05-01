@@ -31,12 +31,15 @@ latest_posts:
 ---
 
 I am an applied mathematician at Virginia Commonwealth University. 
-<b>Research Interests</b>
+
+<b>Research Interests:</b>
 
 - dynamical systems, pattern formation, mathematical biology and ecology
 
-<b>Links</b>
--VCU's conference on Biology And Medicine Through Mathematics (BAMM!)
--VCU's SIAM Student Chapter
--Math Circle at VCU
+<b>Links:</b>
+
+- PhD program in Systems Modeling and Analysis at VCU: <a href='https://sysm.vcu.edu/'>SYSM PhD Program</a>
+- VCU's conference on Biology And Medicine Through Mathematics: <a href='https://siam.vcu.edu/bamm/'>BAMM!</a>
+- VCU's SIAM Student Chapter: <a href='https://siam.vcu.edu/'>VCU SIAM Student Chapter</a>
+- Math Circle at VCU (Info for Fall 2025 coming soon!)
  
