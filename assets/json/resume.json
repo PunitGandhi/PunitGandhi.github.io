@@ -31,6 +31,15 @@
       "endDate": "",
       "summary": "Department of Mathematics and Applied Mathematics",
       "highlights": ""
+    },
+    {
+      "name": "M.S. 101, Bronx, NY",
+      "position": "Middle School Teacher",
+      "url": "",
+      "startDate": "2004",
+      "endDate": "2006",
+      "summary": "7-8 Grade Science and Math",
+      "highlights": ""
     }
   ],
   "volunteer": [
@@ -67,6 +76,17 @@
       "endDate": "2016",
       "score": "",
       "courses": ["Advisor: Edgar Knobloch"]
+    },
+    {
+      "institution": "Cornell University",
+      "location": "Ithaca, NY",
+      "url": "https://www.engineering.cornell.edu/aep/",
+      "area": "Applied and Engineering Physics",
+      "studyType": "BS",
+      "startDate": " ",
+      "endDate": "2004",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
