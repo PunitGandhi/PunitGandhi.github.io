@@ -36,6 +36,19 @@ I am an applied mathematician at Virginia Commonwealth University.
 
 - dynamical systems, pattern formation, mathematical biology and ecology
 
+<b>Links for Students:</b>
+
+- <a href='https://sysm.vcu.edu/'>SYSM PhD Program</a>
+  - Doctoral program in Systems Modeling and Analysis at VCU.
+- <a href='https://siam.vcu.edu/bamm/'>BAMM!</a>
+  - VCU's conference on Biology And Medicine Through Mathematics!
+- <a href='https://siam.vcu.edu/'>VCU SIAM Student Chapter</a>
+  - Open to all undergraduate and graduate students at VCU interested in applied math.
+- Math Circle at VCU (Info for Fall 2025 coming soon!)
+  - A Richmond area math community that meets roughly once a month to engage in fun and interesting mathematical problems. Open to student in grades 8-12.
+- AMC 8, 10 and 12 at VCU  (Info for Fall 2025 coming soon!)
+  - VCU hosts the American Math Competions for students in grades 6-12.
+
 <b>Professional Societies and Communities:</b>
 
 - Society for Applied and Industrial Mathematics (<a href='https://www.siam.org/'>SIAM</a>)
@@ -44,15 +57,3 @@ I am an applied mathematician at Virginia Commonwealth University.
 - Mid-Atlantic Regional Math Alliance (<a href='https://sites.google.com/view/mid-atlantic-math-alliance/'>MARMA</a>)
 - Society for Mathematical Biology (<a href='https://www.smb.org/'>SMB</a>)
 
-<b>Links for Students:</b>
-
-- <a href='https://sysm.vcu.edu/'>SYSM PhD Program</a> 
-  - Doctoral program in Systems Modeling and Analysis at VCU. 
-- <a href='https://siam.vcu.edu/bamm/'>BAMM!</a>
-  - VCU's conference on Biology And Medicine Through Mathematics!
-- <a href='https://siam.vcu.edu/'>VCU SIAM Student Chapter:</a> 
-  - Open to all undergraduate and graduate students at VCU interested in applied math.
-- Math Circle at VCU (Info for Fall 2025 coming soon!)
-  - A local math community that meets roughly once a month to engage in fun and interesting mathematical problems. Open to student in grades 8-12 
-- AMC 8, 10 and 12 at VCU  (Info for Fall 2025 coming soon!)
-  -  VCU hosts the American Math Competions for students in grades 6-12. 
