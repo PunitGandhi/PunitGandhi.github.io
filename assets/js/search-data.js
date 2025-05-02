@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Courses I&#39;ve taught at VCU, Ohio State and UC Berkeley.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -64,6 +64,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "courses-course-1",
+          title: 'course 1',
+          description: "with background image",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/1_course/";
             },},{id: "news-presenting-in-the-mathematical-biology-seminar-at-vcu",
           title: 'Presenting in the Mathematical Biology Seminar at VCU.',
           description: "",
