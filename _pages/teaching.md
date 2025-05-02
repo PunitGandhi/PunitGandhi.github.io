@@ -5,10 +5,9 @@ title: teaching
 description: Courses I've taught at VCU, Ohio State and UC Berkeley.
 nav: true
 nav_order: 4
-display_categories: [VCU, Ohio State, UC Berkeley]
+display_categories: [Current Semester, VCU, Ohio State, UC Berkeley]
 horizontal: false
 ---
-
 
 <!-- pages/teaching.md -->
 <div class="courses">

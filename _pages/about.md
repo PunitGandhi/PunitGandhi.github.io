@@ -46,7 +46,7 @@ I am an applied mathematician at Virginia Commonwealth University.
   - Open to all undergraduate and graduate students at VCU interested in applied math.
 - Math Circle at VCU (Info for Fall 2025 coming soon!)
   - A Richmond area math community that meets roughly once a month to engage in fun and interesting mathematical problems. Open to student in grades 8-12.
-- AMC 8, 10 and 12 at VCU  (Info for Fall 2025 coming soon!)
+- AMC 8, 10 and 12 at VCU (Info for Fall 2025 coming soon!)
   - VCU hosts the American Math Competions for students in grades 6-12.
 
 <b>Professional Societies and Communities:</b>
