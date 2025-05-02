@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an applied mathematician at VCU.  My research focuses on the spontaneous emergence of patterns in space and time. I employ analytic techniques from dynamical systems and bifurcation theory, along with numerical computation, to develop and explore models of spatial pattern formation and other emergent behavior of nonlinear systems. Much of my current research agenda is driven by the question of what can be learned about a system from properties of its emergent behavior when combined with available data. My recent work has emphasized applications to biology and ecology, and allowed me the opportunity to build fruitful interdisciplinary collaborations.
+Welcome to my website, I am an applied mathematician at VCU.
 
 <b>Research Interests:</b>
 
