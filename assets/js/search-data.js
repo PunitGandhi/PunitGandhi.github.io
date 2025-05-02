@@ -64,14 +64,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "courses-math-200",
-          title: 'Math 200',
-          description: "Calculus with Analytic Geometry II",
+            },},{id: "courses-calculus-with-analytic-geometry-i",
+          title: 'Calculus with Analytic Geometry I',
+          description: "Math 200",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m200/";
-            },},{id: "courses-math-201",
-          title: 'Math 201',
-          description: "Calculus with Analytic Geometry II",
+            },},{id: "courses-calculus-with-analytic-geometry-ii",
+          title: 'Calculus with Analytic Geometry II',
+          description: "Math 201",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m201/";
             },},{id: "courses-math-2174",
@@ -79,14 +79,14 @@ ninja.data = [{
           description: "Linear Algebra and Differential Equations for Engineers",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m2174/";
-            },},{id: "courses-math-301",
-          title: 'Math 301',
-          description: "Differential Equations",
+            },},{id: "courses-differential-equations",
+          title: 'Differential Equations',
+          description: "Math 301",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m301/";
-            },},{id: "courses-math-310",
-          title: 'Math 310',
-          description: "Linear Algebra",
+            },},{id: "courses-linear-algebra",
+          title: 'Linear Algebra',
+          description: "Math 310",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m310/";
             },},{id: "courses-math-415",
