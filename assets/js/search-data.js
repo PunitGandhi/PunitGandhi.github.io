@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "From the cellular scale of developmental biology to the landscape scale of vegetation patterns in dryland ecosystems, I am interested in modeling self-organization in complex systems that are nonlinear, dissipative and driven far from equilibrium. While much of my work focuses on the formation of spatial patterns and spatially localized structures, I am also collective behavior on networks.  I rely tools from dynamical systems and bifurcation theory to develop and analyze models aimed at providing insight into the processes underlying the pattern formation process.",
+          description: "My research in the field of applied mathematics focuses on the spontaneous emergence of patterns in space and time. I employ analytic techniques from dynamical systems and bifurcation theory, along with numerical computation, to develop and explore models of spatial pattern formation and other emergent behavior of nonlinear systems. Much of my current research agenda is driven by the question of what can be learned about a system from properties of its emergent behavior when combined with available data. My recent work has emphasized applications to biology and ecology, and allowed me the opportunity to build fruitful interdisciplinary collaborations. Some of my past and current projects are described below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses I&#39;ve taught at VCU, Ohio State and UC Berkeley.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -74,9 +74,9 @@ ninja.data = [{
           description: "Math 201",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m201/";
-            },},{id: "courses-math-2174",
-          title: 'Math 2174',
-          description: "Linear Algebra and Differential Equations for Engineers",
+            },},{id: "courses-linear-algebra-and-differential-equations-for-engineers",
+          title: 'Linear Algebra and Differential Equations for Engineers',
+          description: "Math 2174",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m2174/";
             },},{id: "courses-differential-equations",
@@ -89,34 +89,34 @@ ninja.data = [{
           description: "Math 310",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m310/";
-            },},{id: "courses-math-415",
-          title: 'Math 415',
-          description: "Numerical Methods",
+            },},{id: "courses-numerical-methods",
+          title: 'Numerical Methods',
+          description: "Math 415",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m415/";
-            },},{id: "courses-math-535",
-          title: 'Math 535',
-          description: "Introduction to Dynamical Systems",
+            },},{id: "courses-introduction-to-dynamical-systems",
+          title: 'Introduction to Dynamical Systems',
+          description: "Math 535",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m535/";
-            },},{id: "courses-",
-          title: '',
-          description: "",
+            },},{id: "courses-biomathematics-seminar-patterns",
+          title: 'Biomathematics Seminar (Patterns)',
+          description: "Math 585",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m585/";
-            },},{id: "courses-math-632",
-          title: 'Math 632',
-          description: "Ordinary Differential Equations I",
+            },},{id: "courses-ordinary-differential-equations-i",
+          title: 'Ordinary Differential Equations I',
+          description: "Math 632",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m632/";
-            },},{id: "courses-math-715",
-          title: 'Math 715',
-          description: "Numerical Solutions for Differential Equations",
+            },},{id: "courses-numerical-solutions-for-differential-equations",
+          title: 'Numerical Solutions for Differential Equations',
+          description: "Math 715",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m715/";
-            },},{id: "courses-physics-98",
-          title: 'Physics 98',
-          description: "Introduction to Measurement Uncertainty",
+            },},{id: "courses-introduction-to-measurement-uncertainty",
+          title: 'Introduction to Measurement Uncertainty',
+          description: "Physics 98",
           section: "Courses",handler: () => {
               window.location.href = "/courses/p098/";
             },},{id: "news-presenting-in-the-mathematical-biology-seminar-at-vcu",
