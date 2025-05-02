@@ -23,14 +23,10 @@
     url: https://sites.google.com/view/yangyangwang/home?authuser=1
 
 "Beaume":
-  - firstname: ["Cedric", "C.", "C\'edric"]
+  - firstname: ["Cedric", "C."]
     url: https://cbeaume.com/en/index.html
 
 "falcon":
-  - firstname: ["Claudio", "C."]
-    url: https://sites.google.com/view/cfalcon/home
-
-"falc\'on":
   - firstname: ["Claudio", "C."]
     url: https://sites.google.com/view/cfalcon/home
 
