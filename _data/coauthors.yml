@@ -19,10 +19,45 @@
     url: https://sites.math.duke.edu/~ciocanel/
 
 "Wang":
-  - firstname: ["Yangyang", "Y"]
+  - firstname: ["Yangyang", "Y."]
     url: https://sites.google.com/view/yangyangwang/home?authuser=1
 
 "Beaume":
   - firstname: ["Cedric", "C.", "C\'edric"]
     url: https://cbeaume.com/en/index.html
 
+"falcon":
+  - firstname: ["Claudio", "C."]
+    url: https://sites.google.com/view/cfalcon/home
+
+"falc\'on":
+  - firstname: ["Claudio", "C."]
+    url: https://sites.google.com/view/cfalcon/home
+
+"clerc":
+  - firstname: ["Marcel", "Marcel G.", "M. G."]
+    url: https://www.cec.uchile.cl/~mclerc/DatosPersonales.html
+
+"niklas":
+  - firstname: ["Karl", "K.", "Karl J.", "K. J"]
+    url: http://labs.plantbio.cornell.edu/niklas/
+
+"stewart":
+  - firstname: ["Ian", "I."]
+    url: https://ianstewartjoat.weebly.com/
+
+"postlethwaite":
+  - firstname: ["Claire", "C."]
+    url: https://sites.google.com/view/clairepostlethwaite/home?authuser=0
+
+"porporato":
+  - firstname: ["Amilcare", "A."]
+    url: http://porporato.princeton.edu/
+
+"zelnik":
+  - firstname: ["Yuval", "Yuval R.", "Y.", "Y. R."]
+    url: https://yuvalzelnik.wordpress.com/
+
+"gowda":
+  - firstname: ["Karna", "K."]
+    url: https://www.gowdalab.org/
