@@ -64,11 +64,61 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "courses-course-1",
-          title: 'course 1',
-          description: "with background image",
+            },},{id: "courses-math-200",
+          title: 'Math 200',
+          description: "Calculus with Analytic Geometry II",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/1_course/";
+              window.location.href = "/courses/m200/";
+            },},{id: "courses-math-201",
+          title: 'Math 201',
+          description: "Calculus with Analytic Geometry II",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m201/";
+            },},{id: "courses-math-2174",
+          title: 'Math 2174',
+          description: "Linear Algebra and Differential Equations for Engineers",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m2174/";
+            },},{id: "courses-math-301",
+          title: 'Math 301',
+          description: "Differential Equations",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m301/";
+            },},{id: "courses-math-310",
+          title: 'Math 310',
+          description: "Linear Algebra",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m310/";
+            },},{id: "courses-math-415",
+          title: 'Math 415',
+          description: "Numerical Methods",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m415/";
+            },},{id: "courses-math-535",
+          title: 'Math 535',
+          description: "Introduction to Dynamical Systems",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m535/";
+            },},{id: "courses-",
+          title: '',
+          description: "",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m585/";
+            },},{id: "courses-math-632",
+          title: 'Math 632',
+          description: "Ordinary Differential Equations I",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m632/";
+            },},{id: "courses-math-715",
+          title: 'Math 715',
+          description: "Numerical Solutions for Differential Equations",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/m715/";
+            },},{id: "courses-physics-98",
+          title: 'Physics 98',
+          description: "Introduction to Measurement Uncertainty",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/p098/";
             },},{id: "news-presenting-in-the-mathematical-biology-seminar-at-vcu",
           title: 'Presenting in the Mathematical Biology Seminar at VCU.',
           description: "",
