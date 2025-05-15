@@ -66,57 +66,57 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "courses-calculus-with-analytic-geometry-i",
           title: 'Calculus with Analytic Geometry I',
-          description: "Math 200",
+          description: "VCU Math 200",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m200/";
             },},{id: "courses-calculus-with-analytic-geometry-ii",
           title: 'Calculus with Analytic Geometry II',
-          description: "Math 201",
+          description: "VCU Math 201",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m201/";
             },},{id: "courses-linear-algebra-and-differential-equations-for-engineers",
           title: 'Linear Algebra and Differential Equations for Engineers',
-          description: "Math 2174",
+          description: "Ohio State Math 2174",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m2174/";
             },},{id: "courses-differential-equations",
           title: 'Differential Equations',
-          description: "Math 301",
+          description: "VCU Math 301",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m301/";
             },},{id: "courses-linear-algebra",
           title: 'Linear Algebra',
-          description: "Math 310",
+          description: "VCU Math 310",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m310/";
             },},{id: "courses-numerical-methods",
           title: 'Numerical Methods',
-          description: "Math 415",
+          description: "VCU Math 415",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m415/";
             },},{id: "courses-introduction-to-dynamical-systems",
           title: 'Introduction to Dynamical Systems',
-          description: "Math 535",
+          description: "VCU Math 535",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m535/";
-            },},{id: "courses-biomathematics-seminar-patterns",
-          title: 'Biomathematics Seminar (Patterns)',
-          description: "Math 585",
+            },},{id: "courses-biomathematics-seminar-on-pattern-formation",
+          title: 'Biomathematics Seminar on Pattern Formation',
+          description: "VCU Math 585",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m585/";
             },},{id: "courses-ordinary-differential-equations-i",
           title: 'Ordinary Differential Equations I',
-          description: "Math 632",
+          description: "VCU Math 632",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m632/";
             },},{id: "courses-numerical-solutions-for-differential-equations",
           title: 'Numerical Solutions for Differential Equations',
-          description: "Math 715",
+          description: "VCU Math 715",
           section: "Courses",handler: () => {
               window.location.href = "/courses/m715/";
             },},{id: "courses-introduction-to-measurement-uncertainty",
           title: 'Introduction to Measurement Uncertainty',
-          description: "Physics 98",
+          description: "UC Berkeley Physics 98",
           section: "Courses",handler: () => {
               window.location.href = "/courses/p098/";
             },},{id: "news-presenting-in-the-mathematical-biology-seminar-at-vcu",
