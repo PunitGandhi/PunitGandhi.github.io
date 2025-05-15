@@ -5,7 +5,7 @@ permalink: /projects/
 description: My research in the field of applied mathematics focuses on the spontaneous emergence of patterns in space and time. I employ analytic techniques from dynamical systems and bifurcation theory, along with numerical computation, to develop and explore models of spatial pattern formation and other emergent behavior of nonlinear systems. Much of my current research agenda is driven by the question of what can be learned about a system from properties of its emergent behavior when combined with available data. My recent work has emphasized applications to biology and ecology, and allowed me the opportunity to build fruitful interdisciplinary collaborations. Some of my past and current projects are described below.
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [vegetation_patterns, approximate_symmetry, network_dynamics, localized_structures]
 horizontal: false
 ---
 

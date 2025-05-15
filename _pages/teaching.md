@@ -5,19 +5,12 @@ title: teaching
 description: 
 nav: true
 nav_order: 4
-display_categories: [current_emester, vcu, ohio_state, uc_berkeley]
+display_categories: [current_semester, vcu, ohio_state, uc_berkeley]
 horizontal: false
 ---
-My goal as an instructor is to design a classroom environment that provides my students the opportunity to learn mathematical concepts using the same scientific process that I follow in my own research as an applied mathematician. This involves engaging students with challenging and open
+My goal as an instructor is to design a classroom environment that provides students the opportunity to learn mathematical concepts using the same scientific process that I follow in my own research as an applied mathematician. This involves engaging students with challenging and open
 ended problems, providing context through real-world applications and promoting a collaborative
 environment where knowledge is shared through student interactions.
-
-I also take a scientific approach to my teaching. I actively search for effective teaching strategies
-that can help me develop as instructor and work to incorporate them in my classroom when there is
-potential benefit for students. I then collect data in the form of student performance and feedback
-to carefully gauge success, and make informed improvements through successive iteration. Finally,
-I make any successful curriculum ideas and teaching strategies that I develop available to share
-with other educators.
 
 ---
 
