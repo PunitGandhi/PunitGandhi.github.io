@@ -128,7 +128,25 @@ ninja.data = [{
           section: "News",},{id: "news-presenting-in-a-minisymposium-at-the-siam-conference-on-applications-of-dynamical-systems-in-denver-co-may-11-15-2025",
           title: 'Presenting in a minisymposium at the SIAM Conference on Applications of Dynamical Systems...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-presenting-in-minisymposia-on-flow-kick-dyanmics-and-in-celebration-of-mbi-at-the-smb-annual-meeting-in-edmonton-july-13-18-2025",
+          title: 'Presenting in minisymposia on flow-kick dyanmics and in celebration of MBI at the...',
+          description: "",
+          section: "News",},{id: "projects-quantifying-approximate-symmetry-in-biological-systems",
+          title: 'Quantifying approximate symmetry in biological systems',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/asym_transinfo/";
+            },},{id: "projects-a-pulsed-precipitation-model-for-dryland-vegetation-patterns",
+          title: 'A pulsed-precipitation model for dryland vegetation patterns',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/veg_pulsed_precip/";
+            },},{id: "projects-project-1",
+          title: 'project 1',
+          description: "Topographic influence on dryland vegetation bands",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/veg_topo/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
