@@ -5,7 +5,7 @@ title: teaching
 description: 
 nav: true
 nav_order: 4
-display_categories: [CurrentSemester, VCU, OhioState, UCBerkeley]
+display_categories: [current_emester, vcu, ohio_state, uc_berkeley]
 horizontal: false
 ---
 My goal as an instructor is to design a classroom environment that provides my students the opportunity to learn mathematical concepts using the same scientific process that I follow in my own research as an applied mathematician. This involves engaging students with challenging and open

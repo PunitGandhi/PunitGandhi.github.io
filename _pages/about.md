@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website, I am an applied mathematician at VCU.
+Welcome to my website! I am an applied mathematician at VCU interested in pattern formation and other emergent phenomena.  
 
 <b>Research Interests:</b>
 
