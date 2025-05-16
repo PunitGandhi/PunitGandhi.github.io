@@ -143,7 +143,7 @@ ninja.data = [{
               window.location.href = "/projects/localized_structures/";
             },},{id: "projects-network-dynamics-and-synchronization",
           title: 'Network dynamics and synchronization',
-          description: "assets/img/projects/networkexample.png",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/network_dynamics/";
             },},{id: "projects-dryland-vegetation-patterns",
