@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantifying approximate symmetry in biological systems
+title: Approximate symmetry
 description: 
 img: 
 importance: 3

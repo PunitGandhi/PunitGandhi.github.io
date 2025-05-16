@@ -1,10 +1,9 @@
 ---
 layout: page
-title: A pulsed-precipitation model for dryland vegetation patterns
-description: 
+title: Dryland vegetation patterns
 img: 
 importance: 1
-category: vegetation_patterns
+category: 
 related_publications: true
 ---
 
@@ -13,3 +12,7 @@ related_publications: true
 {% cite gandhi2023pulsed %}
 
 {% cite gandhi2020fast %}
+
+{% cite gandhi2019vegetation %}
+
+{% cite gandhi2018topographic %}
