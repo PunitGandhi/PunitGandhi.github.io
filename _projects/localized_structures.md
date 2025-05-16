@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spatially localized structures
-img: 
+img: assets/img/projects/tSHE.gif
 importance: 4
 category: localized_structures
 related_publications: true
