@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Network dynamics and synchronization
-description: assets/img/projects/networkexample.png
-img: 
+description: 
+img: assets/img/projects/networkexample.png
 importance: 2
 category: network_dynamics
 related_publications: true
