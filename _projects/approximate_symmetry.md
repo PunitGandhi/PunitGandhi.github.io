@@ -4,7 +4,7 @@ title: Approximate symmetry
 description: 
 img: 
 importance: 3
-category: approximate_symmetry
+category: 
 related_publications: true
 ---
 

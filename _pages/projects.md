@@ -6,7 +6,6 @@ description: My research in the field of applied mathematics focuses on the spon
 nav: true
 nav_order: 2
 display_categories: []
-<!-- [vegetation_patterns, approximate_symmetry, network_dynamics, localized_structures] -->
 horizontal: false
 ---
 

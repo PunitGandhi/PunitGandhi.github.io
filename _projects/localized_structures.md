@@ -3,7 +3,7 @@ layout: page
 title: Spatially localized structures
 img: 
 importance: 4
-category: vegetation_patterns
+category: 
 related_publications: true
 ---
 
