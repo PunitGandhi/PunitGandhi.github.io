@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dryland vegetation patterns
-img: assets/img/projects/topoRV.pdf
+img: assets/img/projects/TopoRV.png
 importance: 1
 category: vegetation_patterns
 related_publications: true
