@@ -3,7 +3,7 @@ layout: page
 title: Spatially localized structures
 img: 
 importance: 4
-category: 
+category: localized_structures
 related_publications: true
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Dryland vegetation patterns
 img: 
 importance: 1
-category: 
+category: vegetation_patterns
 related_publications: true
 ---
 

@@ -4,7 +4,7 @@ title: Network dynamics and synchronization
 description: 
 img: 
 importance: 2
-category: 
+category: network_dynamics
 related_publications: true
 ---
 
